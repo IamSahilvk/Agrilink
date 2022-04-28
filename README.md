@@ -1,7 +1,7 @@
 
-# Agrilink Project
+# Agrilink Backend
 
-Express JS API web-service which captures user contributed
+Express JS API web-service that captures user contributed
 reports and returns an aggregate report in response.
 
 
@@ -25,32 +25,31 @@ reports and returns an aggregate report in response.
 
 
 
-## Run Locally
+## Run this project
 
-Clone the project
+Clone this project
 
 ```bash
   https://github.com/IamSahilvk/Agrilink.git
 ```
 
-Go to the project directory
+Then go to the project directory
 
 ```bash
   cd my-project
 ```
 
-Install dependencies
+After that install dependencies
 
 ```bash
   npm install
 ```
 
-Start the server
+Then start the server
 
 ```bash
   npm start
 ```
-Now open postman and test with data
 
 
 
