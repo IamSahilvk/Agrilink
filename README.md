@@ -52,10 +52,7 @@ Start the server
 ```
 Now open postman and test with data
 
-## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file.
-For CONNECTION_URL I am running the mongoDB data base locally . 
 
 `CONNECTION_URL=""`
 
